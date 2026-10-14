@@ -1,0 +1,111 @@
+instruction,category,intent,response
+How can I cancel my order?,ORDER,cancel_order,"Open the My Orders section of your account.
+Select the order you want to cancel.
+Check whether the Cancel Order option is available.
+Select it and follow the instructions shown on the screen.
+If cancellation is unavailable, contact customer support for help."
+How can I track my order?,ORDER,track_order,"Sign in to your account and open My Orders.
+Choose the order you want to track.
+Look for the tracking status or tracking link.
+If a tracking number is provided, use it on the listed carrier's website.
+If the status has not changed for a long time, contact customer support."
+How do I request a refund?,REFUND,get_refund,"Open My Orders and select the relevant order.
+Review the order details and look for a refund option.
+If the option is available, select it and follow the instructions.
+Keep your order number and payment details available for reference.
+Contact customer support if you cannot submit the request or need clarification."
+What should I do if my payment failed but money was deducted?,PAYMENT,payment_issue,"First, check whether your order was confirmed in My Orders.
+Review your bank statement or payment app for the transaction status.
+Save the transaction reference, amount, and time of payment.
+Avoid repeating the payment until you have checked the order status.
+Contact customer support with these details if the deduction remains unresolved."
+How do I reset my password?,ACCOUNT,recover_password,"Open the sign-in page for your account.
+Select the Forgot Password option.
+Enter the email address or other account detail requested.
+Follow the password-reset instructions sent to your registered contact method.
+If you do not receive the message, check your spam folder and try again."
+How can I contact a human support agent?,CONTACT,contact_human_agent,"Open the Contact Us or Help section of the website.
+Review the support options available for your account.
+Choose the available chat, phone, or email option.
+Explain your issue clearly and provide your order number if relevant.
+Do not share your password or one-time verification codes with anyone."
+Can I change my delivery address?,ORDER,change_address,"Open My Orders and select the order you want to update.
+Check the order details for an address-editing option.
+If the option is available, enter the correct address and save the change.
+Address changes may be unavailable after an order has been processed or shipped.
+If you cannot edit it, contact customer support as soon as possible."
+How do I return a product?,RETURN,return_order,"Open My Orders and select the product you want to return.
+Review the return information and eligibility shown for that order.
+If a return option is available, select it and follow the instructions.
+Keep the product, accessories, and packaging until you review the return steps.
+Contact customer support if the return option is missing or unclear."
+My order arrived damaged. What should I do?,RETURN,damaged_order,"Keep the damaged product and its packaging until you receive instructions.
+Take clear photos of the damage and the package if possible.
+Open My Orders and find the affected order.
+Use the available return or support option to report the problem.
+Include your order number and a short description when contacting support."
+I received the wrong item. How can I fix this?,ORDER,wrong_item,"Check the item received against the details in your order confirmation.
+Keep the packaging and any labels until the issue is resolved.
+Take a photo of the item if it helps explain the mismatch.
+Open My Orders and report the issue through the available support option.
+Provide your order number and ask about the available replacement or return steps."
+How can I update my email address?,ACCOUNT,update_email,"Sign in to your account and open Account Settings.
+Look for the profile or contact-information section.
+If editing is available, enter your new email address and save the change.
+Complete any verification step sent to your email if requested.
+Contact customer support if you cannot access the old address or update the account."
+How can I check whether my order was confirmed?,ORDER,order_confirmation,"Open My Orders and look for the order you recently placed.
+Check whether an order number and order details are displayed.
+Review your registered email for an order confirmation message.
+If no confirmation appears, check your payment status before placing another order.
+Contact customer support with the transaction details if you are unsure."
+I forgot my account email. What can I do?,ACCOUNT,forgot_email,"Check previous order confirmations or account messages for the registered email.
+If you use more than one email address, try the one used at checkout.
+Use the account-recovery option if the website provides one.
+Do not share passwords or verification codes while seeking help.
+Contact customer support and follow its identity-verification process if needed."
+How do I apply a discount code?,PAYMENT,apply_coupon,"Review the terms and conditions of the discount code first.
+Add the eligible items to your cart and continue to checkout.
+Enter the code in the coupon or discount field.
+Apply the code and confirm that the order total changes before paying.
+If the code is rejected, check its expiry, eligibility, and spelling."
+The discount code is not working. Why?,PAYMENT,coupon_issue,"Check that the code has been entered exactly as provided.
+Review its expiry date and any minimum-purchase requirement.
+Confirm that the items in your cart qualify for the offer.
+Check whether the code can be combined with other discounts.
+If it still fails, contact customer support and share the error message without sharing sensitive payment data."
+How can I download an invoice?,ORDER,download_invoice,"Sign in and open My Orders.
+Select the order for which you need an invoice.
+Look for an Invoice, Receipt, or Download Document option.
+Open or save the document for your records.
+If no invoice option appears, contact customer support with the order number."
+What should I do if my delivery is late?,DELIVERY,delayed_delivery,"Open My Orders and review the latest delivery status.
+Check any estimated delivery date or carrier tracking information shown.
+Look for delivery updates in your registered email or messages.
+If the estimate has passed or tracking has stopped updating, contact customer support.
+Share your order number and the latest tracking status when asking for help."
+Can I change the size or colour after ordering?,ORDER,modify_order,"Open My Orders and select the order you want to change.
+Check whether editing or modification options are available.
+If available, review the size or colour choices and save the change.
+Some orders cannot be modified after processing or dispatch.
+If editing is unavailable, contact customer support to ask about possible alternatives."
+How do I delete my account?,ACCOUNT,delete_account,"Sign in and open Account Settings or the Privacy section.
+Look for an account deletion or account closure option.
+Review the information about what may happen to your account data and order history.
+Follow the displayed confirmation steps if you decide to proceed.
+If the option is unavailable, contact customer support for the official process."
+I cannot sign in to my account. What should I do?,ACCOUNT,login_issue,"Check that your email address and password are entered correctly.
+Make sure Caps Lock is not causing a typing issue.
+Use Forgot Password if you are unsure of your password.
+If the page shows an error, note the message and try again after checking your connection.
+Contact customer support if you still cannot access your account."
+How can I cancel a return request?,RETURN,cancel_return,"Open My Orders and select the item with the return request.
+Review the return status and check whether cancellation is available.
+If a cancel option appears, select it and follow the confirmation steps.
+If the return is already being processed, the option may not be available.
+Contact customer support to ask what can be done for your specific request."
+What should I do if I was charged twice?,PAYMENT,duplicate_charge,"Review your bank statement or payment app for both transactions.
+Check whether both charges correspond to separate confirmed orders.
+Save the dates, amounts, and transaction references for both entries.
+Avoid sharing full card numbers, passwords, or one-time codes.
+Contact customer support and your payment provider if the duplicate charge remains unresolved."
